@@ -1,5 +1,16 @@
 # Foro [CHALLENGE] :
 
+Este proyecto implementa una API REST para gestionar tópicos, desarrollada con Spring Boot y enfocada en brindar funcionalidades CRUD (Crear, Leer, Actualizar y Eliminar).
+
+Características principales:
+
+Modelo REST: Rutas organizadas siguiendo las mejores prácticas.
+Validaciones: Implementación de reglas de negocio para datos consistentes.
+Persistencia de datos: Uso de MySQL con integración de Spring Data JPA y migraciones gestionadas con Flyway.
+Seguridad: Autenticación y autorización con Spring Security para proteger los datos.
+Desarrollo ágil: Uso de herramientas como Lombok y Spring Boot DevTools para optimizar la productividad.
+El proyecto está diseñado para ser escalable y seguir los estándares modernos de desarrollo web backend.
+
 ## Configuración
 Este documento detalla la configuración inicial y los pasos necesarios para desarrollar un proyecto Spring Boot centrado en la implementación de una API REST con funcionalidades CRUD.
 
