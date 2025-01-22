@@ -149,6 +149,9 @@ El proyecto es una API REST centrada en la gestión de tópicos, implementando l
 
 ---
 
+## Licencia
+Este proyecto está bajo la licencia MIT.
+
 
 
 
